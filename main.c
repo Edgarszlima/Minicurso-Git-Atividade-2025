@@ -1,6 +1,5 @@
 #include <stdio.h>
 
 int main () {
-    printf("seu nome completo aqui");
-    return 0;
+	printf("Edgar\n");
 }
